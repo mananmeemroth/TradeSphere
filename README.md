@@ -1,4 +1,4 @@
-# Zerodha Clone Final
+# TradeSphere
 
 A full-stack clone of the Zerodha trading platform. This project features a unified backend and two specialized React applications: a marketing frontend and a trading dashboard.
 
